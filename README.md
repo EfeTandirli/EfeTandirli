@@ -6,7 +6,7 @@
 🌍 Open to research and internship opportunities (EU/US)
 
 ## 🔧 Skills
-Python, MATLAB, C++, R, JavaScript, SQL, Git, Jupyter, SciPy, NumPy, Matplotlib
+Python, MATLAB, C++, C, R, JavaScript, SQL, Git, Jupyter, SciPy, NumPy, Matplotlib
 
 ## 📊 Projects
 [N-Body Simulation](https://github.com/efe-tandırlı/nbody-sim)
